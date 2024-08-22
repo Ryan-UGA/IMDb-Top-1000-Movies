@@ -15,20 +15,21 @@ This project presents a Shiny application developed as a part of a data science 
 The dataset's source is Kaggle: [IMDb Top 1000 Movies and TV Shows](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/data)
 
 ## Data Dictionary
-Overview: Provides a mini story/summary.
-Poster_Link: Link of the poster that IMDb is using.
-Series_Title: Name of the movie.
-Released_Year: The year in which that movie released.
-Certificate: Certificate earned by that movie.
-Runtime: Total runtime of the movie.
-Genre: The genre of the movie.
-IMDb_Rating: Rating of the movie at the IMDb site.
-Overview: Provides a mini story/summary.
-Meta_score: Score earned by the movie.
-Director: Name of the Director.
-Stars: Name of the top 4 Stars (Star1, Star2, Star3, Star4) in the movie.
-No_of_votes: Total number of votes.
-Gross: Money earned by that movie.
+
+1. Overview: Provides a mini story/summary.
+2. Poster_Link: Link of the poster that IMDb is using.
+3. Series_Title: Name of the movie.
+4. Released_Year: The year in which that movie released.
+5. Certificate: Certificate earned by that movie.
+6. Runtime: Total runtime of the movie.
+7. Genre: The genre of the movie.
+8. IMDb_Rating: Rating of the movie at the IMDb site.
+9. Overview: Provides a mini story/summary.
+10. Meta_score: Score earned by the movie.
+11. Director: Name of the Director.
+12. Stars: Name of the top 4 Stars (Star1, Star2, Star3, Star4) in the movie.
+13. No_of_votes: Total number of votes.
+14. Gross: Money earned by that movie.
 
 ## App Structure
 
